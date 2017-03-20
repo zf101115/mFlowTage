@@ -17,7 +17,7 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 
 #效果图
 
-![image](https://github.com/zf101115/mFlowTage/screenshort/flowla.png)
+![image](https://github.com/zf101115/mFlowTage/raw/master/screenshort/flowla.png)
 
 
 
